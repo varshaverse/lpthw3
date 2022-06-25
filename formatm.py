@@ -14,4 +14,4 @@ print(formatter.format(
 ))
 print("\n")
 list = "{} {} {} "
-print(list.format("List: " 'milk,', 'onions,', 'banana')) # prints a shopping list
+print(list.format("List: "'milk,', 'onions,', 'banana')) # prints a shopping list
