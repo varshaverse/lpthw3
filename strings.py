@@ -25,7 +25,7 @@ print(f"My ethnicty is {my_ethnicity}.")
 print("\n")
 hilarious = False
 joke_evaluation = "Isn't that joke so funny?! {}"
-print(joke_evaluation.format(hilarious)) # .format another type of formatting that is used in loops and other situations
+print(joke_evaluation.format(hilarious)) #.format another type of formatting that is used in loops and other situations
 
 
 name = False
